@@ -1,0 +1,6 @@
+Repositorio
+ lugar donde se almacena el código y el historial de cambios de un proyecto. Funciona como una carpeta digital en la nube.
+Commit
+Es el registro o “foto” de los cambios realizados en el código. Cada commit incluye un mensaje que explica qué se modificó.Funciona como un punto de guardado local.
+Push
+Es la acción de subir los commits locales al repositorio remoto para que otras personas puedan ver los cambios y queden respaldados en la nube.
