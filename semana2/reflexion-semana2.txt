@@ -1,0 +1,1 @@
+Es importante usar la terminal porque no solo se trata de escribir código, sino de entender cómo se organiza, ejecuta y controla un proyecto. Permite interactuar directamente con el sistema y los archivos, lo que mejora la eficiencia y la autonomía del desarrollador. Además, cada comando tiene un propósito dentro del proceso de desarrollo.
