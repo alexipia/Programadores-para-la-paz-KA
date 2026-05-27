@@ -1,0 +1,3 @@
+Esta ruta define una acción en el servidor que se ejecuta cuando llega una petición.
+
+En una aplicación comunitaria puede ayudar a organizar información entre usuarios, como publicar mensajes, consultar datos o coordinar actividades locales.

@@ -1,0 +1,12 @@
+ruta 
+http://localhost:3000
+muestra Servidor activo
+
+ruta 
+http://localhost:3000/saludo
+muestra Hola comunidad
+
+ruta 
+http://localhost:3000/mensaje/juan
+muestra Hola juan
+
