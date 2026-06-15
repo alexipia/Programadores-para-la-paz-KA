@@ -1,0 +1,20 @@
+ 1. Sistema operativo:
+El sistema operativo es la base que permite que el computador funcione.
+Administra los recursos como memoria, archivos y procesos.
+Sin él, las aplicaciones no podrían ejecutarse correctamente.
+ 2. Node.js:
+Node.js permite ejecutar programas escritos en JavaScript.
+Se utiliza mucho para crear servidores y aplicaciones web.
+Además, facilita la comunicación entre clientes y servidores.
+ 3. Aplicación server.js:
+Es el archivo donde se encuentra la lógica del servidor.
+Define las rutas y respuestas que recibirán los usuarios.
+Al ejecutarlo, el servidor queda disponible para atender solicitudes.
+ 4. Puerto:
+El puerto es el número por el que una aplicación recibe conexiones.
+Funciona como una puerta de entrada al servidor.
+Gracias a él, los usuarios pueden acceder al servicio correcto.
+ 5. Logs:
+Los logs guardan información sobre lo que ocurre en el servidor.
+Registran accesos, errores y acciones importantes.
+Son útiles para supervisar y mantener el sistema funcionando bien.

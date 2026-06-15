@@ -1,0 +1,4 @@
+ node server.js
+Servidor ejecutándose en puerto 3000
+estado":"Servidor funcionando",
+"servicio":"API comunitaria"}
