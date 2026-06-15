@@ -1,0 +1,4 @@
+uname -a
+Linux localhost 4.14.186-perf-g15409329e81f #1 SMP PREEMPT Mon Aug 15 18:51:15 CST 2022 aarch64 Android
+whoami
+u0_a586Considero que conocer la información del sistema es útil porque me permite monitorear el estado del servidor, identificar problemas a tiempo y verificar que los recursos estén funcionando correctamente. Además, ayuda a tomar decisiones para mejorar el rendimiento y la seguridad del sistema.

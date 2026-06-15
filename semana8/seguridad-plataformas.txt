@@ -1,0 +1,5 @@
+1. Capacitar a los usuarios sobre buenas prácticas de seguridad digital.
+2. Utilizar contraseñas seguras y cambiarlas periódicamente.
+3. Restringir el acceso a la información según el rol de cada usuario.
+4. Cifrar los datos sensibles almacenados en la plataforma.
+5. Reportar y atender rápidamente cualquier incidente de seguridad.
